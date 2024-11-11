@@ -1,0 +1,16 @@
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\bin\Debug\FIESP.Data.dll.config
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\bin\Debug\FIESP.Data.dll
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\bin\Debug\FIESP.Data.pdb
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\obj\Debug\FIESP.Data.csproj.AssemblyReference.cache
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\obj\Debug\FIESP.Data.csproj.CoreCompileInputs.cache
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\obj\Debug\FIESP.Data.csproj.Up2Date
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\obj\Debug\FIESP.Data.dll
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\obj\Debug\FIESP.Data.pdb
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\bin\Debug\FIESP.Model.dll
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\bin\Debug\FIESP.Model.pdb
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\obj\Debug\FIESP.Data.Migrations.Inicial.resources
+C:\Users\sergiorezende-mtz\source\repos\FIESP\ClassLibrary1\obj\Debug\FIESP.Data.csproj.GenerateResource.cache

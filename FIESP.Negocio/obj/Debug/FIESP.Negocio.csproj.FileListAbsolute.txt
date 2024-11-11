@@ -1,0 +1,13 @@
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Negocio\bin\Debug\FIESP.Negocio.dll
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Negocio\bin\Debug\FIESP.Negocio.pdb
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Negocio\bin\Debug\FIESP.Data.dll
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Negocio\bin\Debug\FIESP.Model.dll
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Negocio\bin\Debug\FIESP.Data.pdb
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Negocio\bin\Debug\FIESP.Data.dll.config
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Negocio\bin\Debug\FIESP.Model.pdb
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Negocio\obj\Debug\FIESP.Negocio.csproj.AssemblyReference.cache
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Negocio\obj\Debug\FIESP.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Negocio\obj\Debug\FIESP.Ne.3787C60A.Up2Date
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Negocio\obj\Debug\FIESP.Negocio.dll
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Negocio\obj\Debug\FIESP.Negocio.pdb

@@ -1,0 +1,6 @@
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Util\obj\Debug\FIESP.Util.csproj.AssemblyReference.cache
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Util\obj\Debug\FIESP.Util.csproj.CoreCompileInputs.cache
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Util\bin\Debug\FIESP.Util.dll
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Util\bin\Debug\FIESP.Util.pdb
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Util\obj\Debug\FIESP.Util.dll
+C:\Users\sergiorezende-mtz\source\repos\FIESP\FIESP.Util\obj\Debug\FIESP.Util.pdb
